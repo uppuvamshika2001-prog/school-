@@ -64,7 +64,6 @@ const navItems: NavItem[] = [
     roles: ['SUPER_ADMIN', 'SCHOOL_ADMIN'],
     children: [
       { label: 'Classes', href: '/dashboard/academics/classes', icon: BookOpen },
-      { label: 'Sections', href: '/dashboard/academics/sections', icon: ClipboardList },
       { label: 'Subjects', href: '/dashboard/academics/subjects', icon: FileText },
     ],
   },
